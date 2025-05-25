@@ -37,6 +37,16 @@ Protect internal assets through the implementation of policies, procedures, trai
 
 Detect potential security incidents and improve monitoring capabilities to increase the speed and efficiency of detections. 
 
+## I then Performed an Incident Anlasysis Report.
+
+
+
+
+
+
+
+
+
 Respond to contain, neutralize, and analyze security incidents; implement improvements to the security process. 
 
 Recover affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
